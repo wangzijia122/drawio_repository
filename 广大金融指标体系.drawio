@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T03:29:05.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="8ti66_i4fe1jid85EYyb" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T06:22:09.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 Edg/104.0.1293.63" etag="7e_bWRlVH6f8Wu8z4QSJ" version="20.2.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2152" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -650,11 +650,11 @@
             <mxPoint x="160" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-284" value="城市数字金融指标体系" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#0883FF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-420.3" y="3720" width="225" height="320" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-284" value="指标原始数据表" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#0883FF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-379.95" y="3680" width="204.95" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-285" value="省份名称        String&#xa;城市名称        String&#xa;ID                   Int&#xa;年份               String&#xa;电信业务总量            Int&#xa;邮政业务总量            Int&#xa;金融业从业人员数    Float&#xa;数字金融消费额        Float&#xa;金融科技企业数量       Int&#xa;数字金融服务人员       Float&#xa;科学技术支出            Float&#xa;当年获得的发明数量        Int&#xa;当年申请的发明数量        Int&#xa;上市数字金融企业市值    Float&#xa;移动电话用户        Float&#xa;互联网用户            Float&#xa;数字金融关注度    Float&#xa;数字金融政策支持力度        Float&#xa;城市灯光        Float&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-284" vertex="1">
-          <mxGeometry y="30" width="225" height="290" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-285" value="国家名称                   String&#xa;省份名称                   String&#xa;城市名称                   String&#xa;城市id                       Number&#xa;年度                          String&#xa;季度                          String&#xa;月度                          String&#xa;指标1                        Number&#xa;指标2                        Number&#xa;指标3                        Number&#xa;指标4                        Number&#xa;指标5                        Number&#xa;...                              Number&#xa;指标n                        Number&#xa;指标文件名               String&#xa;指标表单名称           String&#xa;...&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-284" vertex="1">
+          <mxGeometry y="30" width="204.95" height="250" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-286" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-284" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -666,9 +666,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-291" value="时间" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#FF6666;" parent="1" vertex="1">
-          <mxGeometry x="-83.28" y="5050" width="123.28" height="153" as="geometry" />
+          <mxGeometry x="-79.28" y="5050" width="123.28" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-292" value="日期            String&#xa;年份            String&#xa;月份            String&#xa;天                String&#xa;日                String&#xa;周                String&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="92t1Hm8fsz9WDFqAWncr-291" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-292" value="id                Number&#xa;日期            String&#xa;年份            String&#xa;月份            String&#xa;天                String&#xa;日                String&#xa;周                String&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="92t1Hm8fsz9WDFqAWncr-291" vertex="1">
           <mxGeometry y="30" width="123.28" height="123" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-436" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;fontColor=#000000;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="92t1Hm8fsz9WDFqAWncr-293" target="92t1Hm8fsz9WDFqAWncr-314" edge="1">
@@ -677,105 +677,111 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-293" value="城市" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#FF6666;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="218.72000000000014" y="5050" width="143.5" height="153" as="geometry" />
+          <mxGeometry x="222.72000000000014" y="5050" width="143.5" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-294" value="城市名称            String&#xa;车牌代号           String&#xa;区域代码            String&#xa;城市代码            String&#xa;拼音全拼            String&#xa;政府名称            String&#xa;城市类型            String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-293" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-294" value="id                        String&#xa;城市名称            String&#xa;车牌代号           String&#xa;区域代码            String&#xa;城市代码            String&#xa;拼音全拼            String&#xa;政府名称            String&#xa;城市类型            String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-293" vertex="1">
           <mxGeometry y="30" width="143.5" height="123" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-295" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-293" source="92t1Hm8fsz9WDFqAWncr-294" target="92t1Hm8fsz9WDFqAWncr-294" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-295" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-293" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.33000000000013" y="169.9999999999991" as="sourcePoint" />
+            <mxPoint x="143.33000000000013" y="169.9999999999991" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-310" value="指标发布" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="340" y="4840" width="210" height="146" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-310" value="指标发布" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=1;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
+          <mxGeometry x="340" y="4826" width="210" height="146" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-311" value="指标发布文件名称            String&#xa;指标发布机构名称            String&#xa;指标发布机构类型            String&#xa;指标发布频率                   String&#xa;指标发布时间                   Datetime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-310" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-311" value="id                    Number&#xa;指标发布文件名称        String&#xa;指标发布机构名称       String&#xa;指标发布机构类型        String&#xa;指标发布频率              String&#xa;指标发布时间             Datetime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-310" vertex="1">
           <mxGeometry y="30" width="210" height="116" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-312" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-310" source="92t1Hm8fsz9WDFqAWncr-311" target="92t1Hm8fsz9WDFqAWncr-311" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-313" value="指标" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="36.25" y="4840" width="207.5" height="148" as="geometry" />
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;fillColor=#FFB570;" edge="1" parent="1" source="92t1Hm8fsz9WDFqAWncr-313" target="y-Tc6KvOMoqUK1gANfFV-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-314" value="指标名称                       String&#xa;指标值                           Number&#xa;指标描述类型        (例: 数字金融)&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-313" vertex="1">
-          <mxGeometry y="30" width="207.5" height="118" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-313" value="指标" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="36.25" y="4817" width="207.5" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-314" value="指标名称                       String&#xa;指标值                           Number&#xa;指标分析主题id             Number&#xa;指标统计类型id             Number&#xa;指标上传id                    Number&#xa;指标发布id                    Number&#xa;城市id                            String&#xa;时间id                            Number&#xa;年份                              Number&#xa;月份                              Number" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-313" vertex="1">
+          <mxGeometry y="30" width="207.5" height="152" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-315" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-313" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="207.49999999999972" y="188" as="sourcePoint" />
-            <mxPoint x="207.49999999999926" y="188" as="targetPoint" />
+            <mxPoint x="209.49999999999972" y="188" as="sourcePoint" />
+            <mxPoint x="209.49999999999926" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-319" value="指标类型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="1.25" y="4640" width="277.5" height="110" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-319" value="指标统计类型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
+          <mxGeometry x="-156.39" y="4640" width="277.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-320" value="指标统计类型名称        String&#xa;指标源类型名称            String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-319" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-320" value="id                                 Number&#xa;指标统计类型名称      String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-319" vertex="1">
           <mxGeometry y="30" width="277.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-321" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-319" source="92t1Hm8fsz9WDFqAWncr-320" target="92t1Hm8fsz9WDFqAWncr-320" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-330" value="指标提供" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="-282.5" y="4842" width="222.5" height="138" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-330" value="指标上传" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
+          <mxGeometry x="-282.5" y="4828" width="222.5" height="138" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-331" value="指标来源文件名               String&#xa;指标来源表单名称           String&#xa;指标来源表单数据量       Number&#xa;指标来源企业名称            String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-330" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-331" value="id                                Number&#xa;指标文件名               String&#xa;指标表单名称           String&#xa;指标表单数据量       Number&#xa;指标来源企业名称    String&#xa;指标文件上传时间    Timestamp" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-330" vertex="1">
           <mxGeometry y="30" width="222.5" height="108" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-332" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-330" source="92t1Hm8fsz9WDFqAWncr-331" target="92t1Hm8fsz9WDFqAWncr-331" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-350" value="指标池" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#0883FF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-4.8" y="3720" width="304.8" height="310" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-350" value="原始指标池(原始指标总表)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#0883FF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="47.95" y="3680" width="212.05" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-351" value="指标名称&#xa;指标值&#xa;指标描述城市&#xa;指标描述省份&#xa;指标描述国家&#xa;指标描述日期&#xa;指标描述月份&#xa;指标描述季度&#xa;指标描述年份&#xa;指标统计类型名称     （例：城建、政策、业务）&#xa;指标源类型名称         （例：政府、行业或者社会）&#xa;指标发布文件名称&#xa;指标发布机构名称        （例：发布机构）&#xa;指标发布机构类型          (例：政府、第三方统计机构)&#xa;指标发布频率 &#xa;指标发布时间&#xa;指标获取时间&#xa;...&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-350" vertex="1">
-          <mxGeometry y="30" width="304.8" height="280" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-351" value="指标名称                    String&#xa;指标值                        Number&#xa;指标描述城市             String&#xa;指标描述省份             String&#xa;指标描述国家             String&#xa;指标描述日期             String&#xa;指标描述月份             String&#xa;指标描述季度             String&#xa;指标描述年份             String&#xa;指标统计类型名称      String&#xa;指标源类型名称          String&#xa;指标发布文件名称      String&#xa;指标文件上传时间      Timestamp&#xa;指标发布机构名称       String&#xa;指标发布机构类型        String&#xa;指标发布频率              String&#xa;指标发布时间             Datetime&#xa;...&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-350" vertex="1">
+          <mxGeometry y="30" width="212.05" height="280" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-352" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-350" source="92t1Hm8fsz9WDFqAWncr-351" target="92t1Hm8fsz9WDFqAWncr-351" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-364" value="指标池" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#FFB570;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="32.3" y="5340" width="227.7" height="290" as="geometry" />
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-364" value="结果指标池(指标总表)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#FFB570;fontColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="25.98" y="5367" width="227.7" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-365" value="指标名称                                String&#xa;指标值                                    Number&#xa;指标描述城市                         String&#xa;指标描述省份                         String&#xa;指标描述国家                         String&#xa;指标描述日期                         String&#xa;指标描述月份                         String&#xa;指标描述季度                         String&#xa;指标描述年份                         String&#xa;指标统计类型名称                  String&#xa;指标源类型名称                      String&#xa;指标发布文件名称                  String&#xa;指标发布机构名称                  String&#xa;指标发布机构类型                  String&#xa;指标发布频率                         String&#xa;指标发布时间                         Datetime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-364" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-365" value="指标名称                       String&#xa;指标值                           Number&#xa;城市                         String&#xa;省份                         String&#xa;国家                         String&#xa;日期                         String&#xa;月份                         String&#xa;季度                         String&#xa;年份                         String&#xa;指标统计类型名称      String&#xa;指标分析类型名称      String&#xa;指标发布文件名称        String&#xa;指标发布机构名称       String&#xa;指标发布机构类型        String&#xa;指标发布频率              String&#xa;指标发布时间             Datetime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" parent="92t1Hm8fsz9WDFqAWncr-364" vertex="1">
           <mxGeometry y="30" width="227.7" height="260" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-366" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="92t1Hm8fsz9WDFqAWncr-364" source="92t1Hm8fsz9WDFqAWncr-365" target="92t1Hm8fsz9WDFqAWncr-365" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-368" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#FFCCCC;" parent="1" edge="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-368" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#0883FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-150.3" y="3869.5" as="sourcePoint" />
-            <mxPoint x="-47.80000000000001" y="3869.5" as="targetPoint" />
+            <mxPoint x="-118.75000000000001" y="3810" as="sourcePoint" />
+            <mxPoint x="-16.250000000000007" y="3810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-375" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#FFCCCC;" parent="1" edge="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-375" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#CCFFCC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="139.47" y="4050" as="sourcePoint" />
             <mxPoint x="139.47" y="4150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-376" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#FFCCCC;" parent="1" edge="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-376" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#FFB570;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="139.47" y="5220" as="sourcePoint" />
-            <mxPoint x="139.47" y="5320" as="targetPoint" />
+            <mxPoint x="139.3" y="5237" as="sourcePoint" />
+            <mxPoint x="139.3" y="5337" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-391" value="省份" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#FF6666;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="440" y="5046" width="150" height="170" as="geometry" />
+          <mxGeometry x="444" y="5046" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-392" value="省份名称            String&#xa;省份代码            String&#xa;省份简称            String&#xa;地域面积            String&#xa;省会城市            String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-391" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-392" value="id                        String&#xa;省份名称            String&#xa;省份代码            String&#xa;省份简称            String&#xa;地域面积            String&#xa;省会城市            String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-391" vertex="1">
           <mxGeometry y="30" width="150" height="140" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-393" value="国家" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#FF6666;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="670" y="5046" width="160" height="170" as="geometry" />
+          <mxGeometry x="674" y="5046" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-394" value="国家代码                String&#xa;国家名称                String&#xa;国家面积                String&#xa;区域号码                String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-393" vertex="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-394" value="id                            String&#xa;国家代码                String&#xa;国家名称                String&#xa;国家面积                String&#xa;区域号码                String" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-393" vertex="1">
           <mxGeometry y="30" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-395" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" parent="1" source="92t1Hm8fsz9WDFqAWncr-392" target="92t1Hm8fsz9WDFqAWncr-394" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="5401" as="sourcePoint" />
-            <mxPoint x="850" y="5401" as="targetPoint" />
+            <mxPoint x="674" y="5401" as="sourcePoint" />
+            <mxPoint x="854" y="5401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-396" value="时间" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#FF6666;" parent="1" vertex="1">
@@ -794,7 +800,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-418" value="指标发布文件" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="1110.75" y="4476.5" width="300" height="136.5" as="geometry" />
+          <mxGeometry x="1485.75" y="4346.5" width="300" height="136.5" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-419" value="指标发布文件名称&#xa;指标发布机构名称        （例：发布机构）&#xa;指标发布机构类型          (例：政府、第三方机构)&#xa;指标发布频率                   &#xa;指标发布时间                   " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-418" vertex="1">
           <mxGeometry y="30" width="300" height="106.5" as="geometry" />
@@ -803,7 +809,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-421" value="指标类型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="787" y="4290" width="277.5" height="110" as="geometry" />
+          <mxGeometry x="1162" y="4160" width="277.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-422" value="指标统计类型名称     （例：城建、政策、业务）&#xa;指标源类型名称         （例：政府、行业或者社会）" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-421" vertex="1">
           <mxGeometry y="30" width="277.5" height="80" as="geometry" />
@@ -815,7 +821,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-425" value="指标来源" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" parent="1" vertex="1">
-          <mxGeometry x="520" y="4483" width="222.5" height="110" as="geometry" />
+          <mxGeometry x="895" y="4353" width="222.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-426" value="指标来源文件名&#xa;指标来源表单名称&#xa;指标来源表单数据量&#xa;指标来源企业名称" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="92t1Hm8fsz9WDFqAWncr-425" vertex="1">
           <mxGeometry y="30" width="222.5" height="80" as="geometry" />
@@ -829,29 +835,29 @@
         <mxCell id="92t1Hm8fsz9WDFqAWncr-429" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;" parent="1" source="92t1Hm8fsz9WDFqAWncr-422" target="92t1Hm8fsz9WDFqAWncr-418" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-430" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#FFCCCC;" parent="1" edge="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-430" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#000000;width=24;endSize=12.33;endWidth=48;fillColor=#CCFFCC;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.8" y="4515" as="sourcePoint" />
-            <mxPoint x="137.8" y="4615" as="targetPoint" />
+            <mxPoint x="139.52" y="4494.75" as="sourcePoint" />
+            <mxPoint x="139.52" y="4594.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-437" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;" parent="1" source="92t1Hm8fsz9WDFqAWncr-331" target="92t1Hm8fsz9WDFqAWncr-314" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-438" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;" parent="1" source="92t1Hm8fsz9WDFqAWncr-320" target="92t1Hm8fsz9WDFqAWncr-313" edge="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-438" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;" parent="1" source="92t1Hm8fsz9WDFqAWncr-320" target="92t1Hm8fsz9WDFqAWncr-313" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="92t1Hm8fsz9WDFqAWncr-439" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;" parent="1" source="92t1Hm8fsz9WDFqAWncr-311" target="92t1Hm8fsz9WDFqAWncr-314" edge="1">
+        <mxCell id="92t1Hm8fsz9WDFqAWncr-439" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=14;fontColor=#000000;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;fillColor=#FFCCCC;dashed=1;" parent="1" source="92t1Hm8fsz9WDFqAWncr-311" target="92t1Hm8fsz9WDFqAWncr-314" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="92t1Hm8fsz9WDFqAWncr-440" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontColor=#FFFFFF;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="92t1Hm8fsz9WDFqAWncr-294" target="92t1Hm8fsz9WDFqAWncr-392" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670.0000000000005" y="5125" as="sourcePoint" />
-            <mxPoint x="420" y="5125" as="targetPoint" />
+            <mxPoint x="674.0000000000005" y="5125" as="sourcePoint" />
+            <mxPoint x="424" y="5125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y-Tc6KvOMoqUK1gANfFV-1" value="指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCCC;fontSize=18;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-118.75" y="4200" width="120" height="60" as="geometry" />
+          <mxGeometry x="-98.75" y="4200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y-Tc6KvOMoqUK1gANfFV-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;fontSize=18;dashed=1;" edge="1" parent="1" source="y-Tc6KvOMoqUK1gANfFV-2" target="y-Tc6KvOMoqUK1gANfFV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -861,16 +867,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y-Tc6KvOMoqUK1gANfFV-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="y-Tc6KvOMoqUK1gANfFV-2" target="y-Tc6KvOMoqUK1gANfFV-14">
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="y-Tc6KvOMoqUK1gANfFV-2" target="y-Tc6KvOMoqUK1gANfFV-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y-Tc6KvOMoqUK1gANfFV-16" value="提供" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="y-Tc6KvOMoqUK1gANfFV-15">
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-16" value="上传" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="y-Tc6KvOMoqUK1gANfFV-15">
           <mxGeometry x="0.3451" y="1" relative="1" as="geometry">
             <mxPoint x="-35" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="y-Tc6KvOMoqUK1gANfFV-2" value="指标来源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="4390" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="4390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="y-Tc6KvOMoqUK1gANfFV-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmany;startFill=0;endArrow=ERmany;endFill=0;fontSize=18;dashed=1;" edge="1" parent="1" source="y-Tc6KvOMoqUK1gANfFV-3" target="y-Tc6KvOMoqUK1gANfFV-1">
           <mxGeometry relative="1" as="geometry" />
@@ -881,10 +887,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="y-Tc6KvOMoqUK1gANfFV-3" value="指标机构" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230.47" y="4200" width="120" height="60" as="geometry" />
+          <mxGeometry x="250.47" y="4200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y-Tc6KvOMoqUK1gANfFV-14" value="指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="230.47" y="4390" width="120" height="60" as="geometry" />
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-14" value="指标文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFCC;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="250.47" y="4390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-18" value="指标分析类型" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;swimlaneFillColor=none;fillColor=#CCFFCC;fontColor=#030303;" vertex="1" parent="1">
+          <mxGeometry x="192.5" y="4640" width="277.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-19" value="id                              Number&#xa;指标分析类型名称      String        (例子：数字金融)" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="y-Tc6KvOMoqUK1gANfFV-18">
+          <mxGeometry y="30" width="277.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y-Tc6KvOMoqUK1gANfFV-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontColor=#030303;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="y-Tc6KvOMoqUK1gANfFV-18" source="y-Tc6KvOMoqUK1gANfFV-19" target="y-Tc6KvOMoqUK1gANfFV-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
