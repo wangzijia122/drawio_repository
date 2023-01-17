@@ -1,211 +1,208 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T02:25:47.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="f_pSFBtH2miDcZir6rQ9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T03:14:37.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="eBqDpJ5TxeEMII9iPioG" version="20.6.2" type="github">
   <diagram id="1ojzTriwA27ISL8A96Mt" name="第 1 页">
-    <mxGraphModel dx="2370" dy="2479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="94eqQ5V6Z24osNXofkiP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-51" target="94eqQ5V6Z24osNXofkiP-53">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-51" target="94eqQ5V6Z24osNXofkiP-53" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.5" y="490" as="sourcePoint" />
             <mxPoint x="142.5" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-50" target="94eqQ5V6Z24osNXofkiP-51">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-50" target="94eqQ5V6Z24osNXofkiP-51" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.5" y="192.5" as="sourcePoint" />
             <mxPoint x="142.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-41" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="94eqQ5V6Z24osNXofkiP-11">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-41" value="sync" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-11" vertex="1" connectable="0">
           <mxGeometry x="-0.1398" y="3" relative="1" as="geometry">
             <mxPoint x="-3" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-54" target="94eqQ5V6Z24osNXofkiP-55">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-54" target="94eqQ5V6Z24osNXofkiP-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.5" y="1735" as="sourcePoint" />
             <mxPoint x="142.5" y="2200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-53" target="94eqQ5V6Z24osNXofkiP-54">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-53" target="94eqQ5V6Z24osNXofkiP-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="142.5" y="980" as="sourcePoint" />
             <mxPoint x="142.5" y="1635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-39" value="mapping&lt;br style=&quot;font-size: 16px;&quot;&gt;/&lt;br style=&quot;font-size: 16px;&quot;&gt;update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="94eqQ5V6Z24osNXofkiP-38">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-39" value="mapping&lt;br style=&quot;font-size: 16px;&quot;&gt;/&lt;br style=&quot;font-size: 16px;&quot;&gt;update" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-38" vertex="1" connectable="0">
           <mxGeometry x="-0.1795" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-19" value="standard" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" connectable="0" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-19" value="standard" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=16;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="142.5" y="670" as="geometry">
             <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-27" value="ods_overseas_car_batch" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-27" value="ods_overseas_car_batch" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="340" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-28" value="batchId&#xa;createTime&#xa;scrapedUrl&#xa;carURL&#xa;carCity&#xa;carName&#xa;origCarId&#xa;price&#xa;brandNameEn&#xa;modelNameEn&#xa;mileage&#xa;pictures&#xa;year&#xa;carColor&#xa;carWeight&#xa;carLength&#xa;carWidth&#xa;carHeight&#xa;carType&#xa;driveType&#xa;fuelType&#xa;gearBox&#xa;displacement&#xa;tractionType&#xa;currencyType&#xa;sourceId&#xa;sourceVersion&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-27">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-28" value="batchId&#xa;createTime&#xa;scrapedUrl&#xa;carURL&#xa;carCity&#xa;carName&#xa;origCarId&#xa;price&#xa;brandNameEn&#xa;modelNameEn&#xa;mileage&#xa;pictures&#xa;year&#xa;carColor&#xa;carWeight&#xa;carLength&#xa;carWidth&#xa;carHeight&#xa;carType&#xa;driveType&#xa;fuelType&#xa;gearBox&#xa;displacement&#xa;tractionType&#xa;currencyType&#xa;sourceId&#xa;sourceVersion&#xa;&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-27" vertex="1">
           <mxGeometry y="30" width="340" height="530" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-31" value="dwd_overseas_car_standard" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-31" value="dwd_overseas_car_standard" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="310" y="690" width="340" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-32" value="batchId&#xa;origCarId&#xa;scrapedUrl&#xa;createTime&#xa;year&#xa;carName&#xa;brandNameEn&#xa;modelNameEn&#xa;currencyType&#xa;mileage&#xa;price.USD&#xa;price.CNY&#xa;price.origPrice&#xa;fuelType&#xa;displacement&#xa;tractionType&#xa;carColor&#xa;carWeight&#xa;carLength&#xa;carWidth&#xa;carHeight&#xa;pictures[0].picNO&#xa;pictures[0].path&#xa;pictures[0].picName&#xa;pictures[0].url&#xa;sourceId&#xa;sourceVersion&#xa;gearBox&#xa;modelId&#xa;modelNameEn_ref&#xa;brandId&#xa;brandNameCn&#xa;countryId&#xa;energyId&#xa;segmentId&#xa;gearBoxId&#xa;tractionTypeId&#xa;specIds&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-31">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-32" value="batchId&#xa;origCarId&#xa;scrapedUrl&#xa;createTime&#xa;year&#xa;carName&#xa;brandNameEn&#xa;modelNameEn&#xa;currencyType&#xa;mileage&#xa;price.USD&#xa;price.CNY&#xa;price.origPrice&#xa;fuelType&#xa;displacement&#xa;tractionType&#xa;carColor&#xa;carWeight&#xa;carLength&#xa;carWidth&#xa;carHeight&#xa;pictures[0].picNO&#xa;pictures[0].path&#xa;pictures[0].picName&#xa;pictures[0].url&#xa;sourceId&#xa;sourceVersion&#xa;gearBox&#xa;modelId&#xa;modelNameEn_ref&#xa;brandId&#xa;brandNameCn&#xa;countryId&#xa;energyId&#xa;segmentId&#xa;gearBoxId&#xa;tractionTypeId&#xa;specIds&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-31" vertex="1">
           <mxGeometry y="30" width="340" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-45" value="dwd_overseas_car_collection" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-45" value="dwd_overseas_car_collection" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="290" y="1510" width="560" height="1670" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-46" value="_id                                        String        车源网站id_车源记录id&#xa;batchId                                 String        采集批次id&#xa;origCarId                              String            车源记录id&#xa;scrapedUrl                            String        采集接口Url&#xa;createTime                           String         数据采集时间&#xa;year                                      Number     汽车年款&#xa;brandNameEn                      String        原始品牌英文名称&#xa;modelNameEn                      String        原始车型英文名称&#xa;carCity                                  String        车源所在城市&#xa;currencyType                        String        货币币种&#xa;price                                      Object        售价字典&#xa;price.current                          Object        当前售价字典&#xa;price.current.USD                  Number       当前美元售价&#xa;price.current.CNY                  Number       当前人民币售价&#xa;price.current.origPrice           Number       当前原始货币售价&#xa;price.history                            List            历史售价列表&#xa;price.history[0]                        Object        历史售价字典&#xa;price.history[0].price               Object        历史售价金额字典&#xa;price.history[0].price.USD      Number         历史美元售价&#xa;price.history[0].price.CNY       Number        历史人民币售价&#xa;price.history[0].price.origPrice Number       历史原始货币售价&#xa;price.history[0].gatherDate      String           历史售价采集日期&#xa;fuelType                                    String            燃油类型&#xa;tractionType                            String            牵引类型&#xa;gearBox                                   String            变速箱类型&#xa;displacement                           Number        排量&#xa;carColor                                String               外观颜色&#xa;carWeight                               Number        整车重量&#xa;carLength                                Number        车身长度&#xa;carWidth                                  Number        车身宽度&#xa;carHeight                                Number         车身高度&#xa;pictures                                    List                图片url列表&#xa;pictures[0]                                Object           图片信息字典&#xa;pictures[0].picNO                    String            图片序号&#xa;pictures[0].path                       String           oss图片存储路径&#xa;pictures[0].picName                String            图片文件名&#xa;pictures[0].url                          String            图片url&#xa;sourceId                                  String            车源网站id&#xa;sourceVersion                        String            车源版本号&#xa;carName                                Object            车源标题字典&#xa;carName.current                    String             车源标题名称&#xa;carName.history                     List                历史车源标题列表&#xa;carName.history[0]                Object            历史车源标题字典&#xa;carName.history[0].value        String            历史车源标题名称&#xa;carName.history[0].gatherTime    String      历史车源标题采集时间&#xa;carName.history[0].selfName     String        历史车源标题版本号&#xa;modelId                                    Object           车型id字典&#xa;modelId.current                        String            车型id&#xa;modelId.history                        List                历史车型id列表&#xa;modelId.history[0]                    Object            历史车型id字典&#xa;modelId.history[0].value            String           历史车型id&#xa;modelId.history[0].gatherTime   String           历史车型名称采集时间&#xa;modelId.history[0].selfName      String            历史车型id版本号&#xa;modelNameEn_ref                    String            参考车型名称&#xa;brandId                                       String            品牌id&#xa;brandNameCn                           String            品牌中文名称&#xa;carColorId                                 String            车身颜色id&#xa;segmentId                                String              车身形式id&#xa;countryId                                   String                国家id&#xa;energyId                                    String               燃油类型id&#xa;gearBoxId                                String              变速箱类型id&#xa;tractionTypeId                           String            牵引类型id&#xa;specIds                                    List                配置id列表&#xa;specIds[0]                                String            配置id&#xa;basicConfig                             List                基础配置信息列表&#xa;basicConfig[0]                         String            基础配置信息   &#xa;prices                                      List                每天售价列表&#xa;prices[0]                                  Object            每天售价字典&#xa;prices[0].price                         Object            每天售价金额字典&#xa;prices[0].price.USD                Number          每天美元售价&#xa;prices[0].price.CNY                Number          每天人民币售价&#xa;prices[0].price.origPrice         Number           每天原始货币售价&#xa;prices[0].gatherDate                String             每天价格采集日期&#xa;recordStatus                            Object            车源记录状态字典&#xa;recordStatus.current               Object            车源记录当前状态&#xa;recordStatus.history                List        车源记录状态历史变化列表&#xa;recordStatus.history[0]            Object            车源记录历史状态字典&#xa;recordStatus.history[0].value    String            车源记录历史状态&#xa;recordStatus.history[0].gatherTime    String        车源记录历史状态采集时间&#xa;recordStatus.history[0].selfName    String        车源记录历史状态版本号&#xa;onDate                                    String                车源上架时间&#xa;updateDate                            String                  车源信息更新时间&#xa;offDate                                    String                车源下架时间&#xa;picSV                                      String                图片列表版本号&#xa;picUT                                      String                图片列表更新时间&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-45">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-46" value="_id                                        String        车源网站id_车源记录id&#xa;batchId                                 String        采集批次id&#xa;origCarId                              String            车源记录id&#xa;scrapedUrl                            String        采集接口Url&#xa;createTime                           String         数据采集时间&#xa;year                                      Number     汽车年款&#xa;brandNameEn                      String        原始品牌英文名称&#xa;modelNameEn                      String        原始车型英文名称&#xa;carCity                                  String        车源所在城市&#xa;currencyType                        String        货币币种&#xa;price                                      Object        售价字典&#xa;price.current                          Object        当前售价字典&#xa;price.current.USD                  Number       当前美元售价&#xa;price.current.CNY                  Number       当前人民币售价&#xa;price.current.origPrice           Number       当前原始货币售价&#xa;price.history                            List            历史售价列表&#xa;price.history[0]                        Object        历史售价字典&#xa;price.history[0].price               Object        历史售价金额字典&#xa;price.history[0].price.USD      Number         历史美元售价&#xa;price.history[0].price.CNY       Number        历史人民币售价&#xa;price.history[0].price.origPrice Number       历史原始货币售价&#xa;price.history[0].gatherDate      String           历史售价采集日期&#xa;fuelType                                    String            燃油类型&#xa;tractionType                            String            牵引类型&#xa;gearBox                                   String            变速箱类型&#xa;displacement                           Number        排量&#xa;carColor                                String               外观颜色&#xa;carWeight                               Number        整车重量&#xa;carLength                                Number        车身长度&#xa;carWidth                                  Number        车身宽度&#xa;carHeight                                Number         车身高度&#xa;pictures                                    List                图片url列表&#xa;pictures[0]                                Object           图片信息字典&#xa;pictures[0].picNO                    String            图片序号&#xa;pictures[0].path                       String           oss图片存储路径&#xa;pictures[0].picName                String            图片文件名&#xa;pictures[0].url                          String            图片url&#xa;sourceId                                  String            车源网站id&#xa;sourceVersion                        String            车源版本号&#xa;carName                                Object            车源标题字典&#xa;carName.current                    String             车源标题名称&#xa;carName.history                     List                历史车源标题列表&#xa;carName.history[0]                Object            历史车源标题字典&#xa;carName.history[0].value        String            历史车源标题名称&#xa;carName.history[0].gatherTime    String      历史车源标题采集时间&#xa;carName.history[0].selfName     String        历史车源标题版本号&#xa;modelId                                    Object           车型id字典&#xa;modelId.current                        String            车型id&#xa;modelId.history                        List                历史车型id列表&#xa;modelId.history[0]                    Object            历史车型id字典&#xa;modelId.history[0].value            String           历史车型id&#xa;modelId.history[0].gatherTime   String           历史车型名称采集时间&#xa;modelId.history[0].selfName      String            历史车型id版本号&#xa;modelNameEn_ref                    String            参考车型名称&#xa;brandId                                       String            品牌id&#xa;brandNameCn                           String            品牌中文名称&#xa;carColorId                                 String            车身颜色id&#xa;segmentId                                String              车身形式id&#xa;countryId                                   String                国家id&#xa;energyId                                    String               燃油类型id&#xa;gearBoxId                                String              变速箱类型id&#xa;tractionTypeId                           String            牵引类型id&#xa;specIds                                    List                配置id列表&#xa;specIds[0]                                String            配置id&#xa;basicConfig                             List                基础配置信息列表&#xa;basicConfig[0]                         String            基础配置信息   &#xa;prices                                      List                每天售价列表&#xa;prices[0]                                  Object            每天售价字典&#xa;prices[0].price                         Object            每天售价金额字典&#xa;prices[0].price.USD                Number          每天美元售价&#xa;prices[0].price.CNY                Number          每天人民币售价&#xa;prices[0].price.origPrice         Number           每天原始货币售价&#xa;prices[0].gatherDate                String             每天价格采集日期&#xa;recordStatus                            Object            车源记录状态字典&#xa;recordStatus.current               Object            车源记录当前状态&#xa;recordStatus.history                List        车源记录状态历史变化列表&#xa;recordStatus.history[0]            Object            车源记录历史状态字典&#xa;recordStatus.history[0].value    String            车源记录历史状态&#xa;recordStatus.history[0].gatherTime    String        车源记录历史状态采集时间&#xa;recordStatus.history[0].selfName    String        车源记录历史状态版本号&#xa;onDate                                    String                车源上架时间&#xa;updateDate                            String                  车源信息更新时间&#xa;offDate                                    String                车源下架时间&#xa;picSV                                      String                图片列表版本号&#xa;picUT                                      String                图片列表更新时间&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-45" vertex="1">
           <mxGeometry y="30" width="560" height="1640" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-50" value="ds_overseas_car_batch_source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-50" value="ds_overseas_car_batch_source" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="22.5" y="100" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-51" value="ods_overseas_car_batch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-51" value="ods_overseas_car_batch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="36.25" y="410" width="212.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-53" value="dwd_overseas_car_standard" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-53" value="dwd_overseas_car_standard" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="31.25" y="910" width="222.5" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-54" value="dwd_overseas_car_collection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-54" value="dwd_overseas_car_collection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="31.25" y="1890" width="222.5" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-55" value="dws_overseas_car" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-55" value="dws_overseas_car" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="3360" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-135" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-67" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-135" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="680" as="sourcePoint" />
             <mxPoint x="610" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-136" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-70" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-136" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="790" as="sourcePoint" />
             <mxPoint x="620" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-139" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-139" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="900" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-142" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-142" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="1010" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-131" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-62" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-131" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="570" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-144" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-144" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="1120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-147" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-147" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="1230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="94eqQ5V6Z24osNXofkiP-148" target="94eqQ5V6Z24osNXofkiP-32">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="94eqQ5V6Z24osNXofkiP-148" target="94eqQ5V6Z24osNXofkiP-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="1340" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-82" value="dwd_global_master_data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-82" value="dwd_global_master_data" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="1390" y="1045" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-101" value="海外车源数仓分层" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="22.5" y="-250" width="970" height="320" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-101" value="数仓分层" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="22.5" y="-340" width="1070" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-102" value="DS（采集）" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-101">
-          <mxGeometry y="20" width="230" height="300" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-102" value="DS（采集）" style="swimlane;startSize=20;html=1;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-101" vertex="1">
+          <mxGeometry y="20" width="230" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-92" value="源数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-102">
-          <mxGeometry x="41.25" y="51.75" width="148.75" height="78.25" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-92" value="源数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-102" vertex="1">
+          <mxGeometry x="40.63" y="45.88" width="148.75" height="88.25" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-103" value="ODS" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-101">
-          <mxGeometry x="230" y="20" width="230" height="300" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-103" value="ODS" style="swimlane;startSize=20;html=1;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-101" vertex="1">
+          <mxGeometry x="230" y="20" width="380" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-93" value="原始数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-103">
-          <mxGeometry x="30" y="51.75" width="157.5" height="78.25" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-93" value="原始数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-103" vertex="1">
+          <mxGeometry x="30" y="45" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-115" value="海外&lt;br style=&quot;font-size: 16px;&quot;&gt;待匹配数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fillColor=#99FF99;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-103">
-          <mxGeometry x="30" y="180" width="160" height="80" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-115" value="待匹配数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-103" vertex="1">
+          <mxGeometry x="197.5" y="170" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-104" value="DWD" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-101">
-          <mxGeometry x="460" y="20" width="310" height="300" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-94" value="标准化数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-103" vertex="1">
+          <mxGeometry x="197.5" y="46.75" width="137.9591836734694" height="88.25000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-116" value="海外主数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-104">
-          <mxGeometry x="70" y="180" width="160" height="80" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-104" value="DWD" style="swimlane;startSize=20;html=1;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-101" vertex="1">
+          <mxGeometry x="610" y="20" width="260" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-105" value="" style="group;fontSize=16;" vertex="1" connectable="0" parent="94eqQ5V6Z24osNXofkiP-104">
-          <mxGeometry x="20" y="51.75" width="260" height="88.25" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-116" value="主数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-104" vertex="1">
+          <mxGeometry x="60" y="170" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-96" value="汇总数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-105">
-          <mxGeometry x="122.04081632653063" width="137.9591836734694" height="88.25000000000001" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-96" value="汇总数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-104" vertex="1">
+          <mxGeometry x="60.000816326530625" y="50" width="137.9591836734694" height="88.25000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-94" value="标准化数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-105">
-          <mxGeometry width="137.9591836734694" height="88.25000000000001" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-114" value="DWS" style="swimlane;startSize=20;html=1;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-101" vertex="1">
+          <mxGeometry x="870" y="20" width="200" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-114" value="DWS" style="swimlane;startSize=20;html=1;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-101">
-          <mxGeometry x="770" y="20" width="200" height="300" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-97" value="应用数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-114" vertex="1">
+          <mxGeometry x="30.880000000000003" y="110" width="138.25" height="88.75" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-97" value="应用数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-114">
-          <mxGeometry x="21.75" y="51.25" width="156.5" height="88.75" as="geometry" />
-        </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-130" value="Exchange_Rate" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-130" value="Exchange_Rate" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="160" width="220" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-131" value="_id&#xa;from                        源币种&#xa;to                            目标币种&#xa;ratio                        汇率&#xa;createTime&#xa;updateTime&#xa;currentDate" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-130">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-131" value="_id&#xa;from                        源币种&#xa;to                            目标币种&#xa;ratio                        汇率&#xa;createTime&#xa;updateTime&#xa;currentDate" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-130" vertex="1">
           <mxGeometry y="30" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-134" value="Country" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-134" value="Country" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="380" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-135" value="_id&#xa;i18nName        Object         国家名称字典&#xa;i18nName.cnname    String    国家中文名&#xa;i18nName.enName    String    国家英文名&#xa;i18nName.abbrCnName    String    国家中文简称&#xa;i18nName.abbrEnName    String    国家英文简称&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-134">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-135" value="_id&#xa;i18nName        Object         国家名称字典&#xa;i18nName.cnname    String    国家中文名&#xa;i18nName.enName    String    国家英文名&#xa;i18nName.abbrCnName    String    国家中文简称&#xa;i18nName.abbrEnName    String    国家英文简称&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-134" vertex="1">
           <mxGeometry y="30" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-136" value="Energy" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-136" value="Energy" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="580" width="370" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-137" value="_id&#xa;i18nName                Object        燃料类型字典&#xa;i18nName.cnName    String    燃料类型中文名称&#xa;i18nName.enName    String    燃料类型英文名称&#xa;newEnergy                bool        是否新能源&#xa;createTime&#xa;updateTime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-136">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-137" value="_id&#xa;i18nName                Object        燃料类型字典&#xa;i18nName.cnName    String    燃料类型中文名称&#xa;i18nName.enName    String    燃料类型英文名称&#xa;newEnergy                bool        是否新能源&#xa;createTime&#xa;updateTime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-136" vertex="1">
           <mxGeometry y="30" width="370" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-138" value="SegmentModel" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-138" value="SegmentModel" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="760" width="370" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-139" value="_id&#xa;modelId                 String                车型id&#xa;segmentId            String                车身形式id&#xa;createTime&#xa;updateTime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-138">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-139" value="_id&#xa;modelId                 String                车型id&#xa;segmentId            String                车身形式id&#xa;createTime&#xa;updateTime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-138" vertex="1">
           <mxGeometry y="30" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-142" value="Spec" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-142" value="Spec" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="940" width="370" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-143" value="_id&#xa;specValue            String        配置值&#xa;i18nName            Object        配置项字典&#xa;i18nName.cnName    String    配置项中文名称&#xa;i18nName.enName    String    配置项英文名称&#xa;type                         Number    配置类型&#xa;createTime  &#xa;updateTime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-142">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-143" value="_id&#xa;specValue            String        配置值&#xa;i18nName            Object        配置项字典&#xa;i18nName.cnName    String    配置项中文名称&#xa;i18nName.enName    String    配置项英文名称&#xa;type                         Number    配置类型&#xa;createTime  &#xa;updateTime&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-142" vertex="1">
           <mxGeometry y="30" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-144" value="Map_Color" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-144" value="Map_Color" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="1140" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-145" value="_id&#xa;colorNameEn        String        颜色英文名称&#xa;source                    String        来源网站名&#xa;colorId_ref            String          颜色参考id&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-144">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-145" value="_id&#xa;colorNameEn        String        颜色英文名称&#xa;source                    String        来源网站名&#xa;colorId_ref            String          颜色参考id&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-144" vertex="1">
           <mxGeometry y="30" width="370" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-146" value="Map_Model" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-146" value="Map_Model" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="1280" width="370" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-147" value="_id&#xa;brandNameEn        String        品牌英文名称&#xa;modelNameEn       String        车型英文名称&#xa;source                    String         来源网站名称&#xa;modelId_ref            String        车型参考id&#xa;modelNameEn_ref       String     车型参考英文名称&#xa;brandId                    String        品牌id&#xa;remark                    String            备注&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-146">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-147" value="_id&#xa;brandNameEn        String        品牌英文名称&#xa;modelNameEn       String        车型英文名称&#xa;source                    String         来源网站名称&#xa;modelId_ref            String        车型参考id&#xa;modelNameEn_ref       String     车型参考英文名称&#xa;brandId                    String        品牌id&#xa;remark                    String            备注&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-146" vertex="1">
           <mxGeometry y="30" width="370" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-148" value="Map_Brand" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" vertex="1" parent="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-148" value="Map_Brand" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="1480" width="370" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-149" value="_id&#xa;i18nName            Object        品牌名称字典&#xa;i18nName.cnName    String        品牌中文名称&#xa;i18nName.enName    String        品牌英文名称&#xa;i18nName.abbrCNName    String    品牌中文简称&#xa;i18nName.abbrENName    String     品牌英文简称&#xa;countryId                String        品牌国家id&#xa;firstLetter            String        品牌首字母&#xa;valid                    String        是否有效&#xa;createTime        &#xa;updateTime&#xa;BeandRemark" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-148">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-149" value="_id&#xa;i18nName            Object        品牌名称字典&#xa;i18nName.cnName    String        品牌中文名称&#xa;i18nName.enName    String        品牌英文名称&#xa;i18nName.abbrCNName    String    品牌中文简称&#xa;i18nName.abbrENName    String     品牌英文简称&#xa;countryId                String        品牌国家id&#xa;firstLetter            String        品牌首字母&#xa;valid                    String        是否有效&#xa;createTime        &#xa;updateTime&#xa;BeandRemark" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=16;verticalAlign=top;resizable=0;rotatable=0;part=1;fontColor=#030303;" parent="94eqQ5V6Z24osNXofkiP-148" vertex="1">
           <mxGeometry y="30" width="370" height="240" as="geometry" />
         </mxCell>
       </root>
