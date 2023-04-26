@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T07:49:54.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="pi2FQzfhSp8-OH2epXlr" version="21.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-04-26T08:51:58.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58" etag="NNyzWaIyr7l5_OhiBGvb" version="21.2.2" type="github" pages="2">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="型号检查修复">
     <mxGraphModel dx="1195" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -236,7 +236,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="V6zchgf1_noJoMCCC81L-1" value="型号匹配模块" style="whiteSpace=wrap;html=1;shadow=1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="150" height="60" as="geometry" />
+          <mxGeometry x="280" y="40" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-2" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" edge="1" parent="1" source="V6zchgf1_noJoMCCC81L-7" target="V6zchgf1_noJoMCCC81L-8">
           <mxGeometry relative="1" as="geometry" />
@@ -253,97 +253,97 @@
         <mxCell id="V6zchgf1_noJoMCCC81L-6" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1" source="V6zchgf1_noJoMCCC81L-16" target="V6zchgf1_noJoMCCC81L-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="450" />
+              <mxPoint x="390" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-7" value="二手车源配置映射" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="170" height="280" as="geometry" />
+          <mxGeometry x="270" y="150" width="170" height="280" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-8" value="车源数据" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-9" value="Network Analyzer" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-10" value="Power Meter" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="480" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-11" value="Freq. Count" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-12" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" edge="1" parent="1" source="V6zchgf1_noJoMCCC81L-13" target="V6zchgf1_noJoMCCC81L-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="210" />
+              <mxPoint x="240" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-13" value="二手车源数据" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="120" height="150" as="geometry" />
+          <mxGeometry x="80" y="140" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-14" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" edge="1" parent="1" source="V6zchgf1_noJoMCCC81L-15" target="V6zchgf1_noJoMCCC81L-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-15" value="ARB / Mod Source" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="40" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-16" value="型号匹配接口" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="242.5" y="470" width="145" height="120" as="geometry" />
+          <mxGeometry x="282.5" y="470" width="145" height="120" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-17" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;elbow=vertical;" edge="1" parent="1" source="V6zchgf1_noJoMCCC81L-18" target="V6zchgf1_noJoMCCC81L-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-18" value="主数据" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="40" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-19" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1" source="V6zchgf1_noJoMCCC81L-16" target="V6zchgf1_noJoMCCC81L-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="480" as="sourcePoint" />
-            <mxPoint x="380" y="440" as="targetPoint" />
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="420" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="450" />
-              <mxPoint x="350" y="450" />
+              <mxPoint x="410" y="450" />
+              <mxPoint x="390" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-20" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="470" as="sourcePoint" />
-            <mxPoint x="330" y="430" as="targetPoint" />
+            <mxPoint x="370" y="470" as="sourcePoint" />
+            <mxPoint x="370" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="450" />
-              <mxPoint x="330" y="450" />
+              <mxPoint x="370" y="450" />
+              <mxPoint x="370" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V6zchgf1_noJoMCCC81L-21" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="430" as="sourcePoint" />
+            <mxPoint x="340" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="450" />
+              <mxPoint x="370" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6zchgf1_noJoMCCC81L-22" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="430" as="sourcePoint" />
+            <mxPoint x="320" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="450" />
+              <mxPoint x="350" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V6zchgf1_noJoMCCC81L-23" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="430" as="sourcePoint" />
             <mxPoint x="300" y="470" as="targetPoint" />
             <Array as="points">
               <mxPoint x="300" y="450" />
               <mxPoint x="330" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V6zchgf1_noJoMCCC81L-22" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="430" as="sourcePoint" />
-            <mxPoint x="280" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="280" y="450" />
-              <mxPoint x="310" y="460" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V6zchgf1_noJoMCCC81L-23" style="edgeStyle=elbowEdgeStyle;rounded=0;html=1;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;fontSize=18;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="430" as="sourcePoint" />
-            <mxPoint x="260" y="470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="450" />
-              <mxPoint x="290" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
