@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T03:27:44.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="_zI2AHGHvXQqOgmsifgL" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T03:27:58.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.35" etag="mYQ4qJHcAfnmlT8OJqhy" version="21.2.9" type="github">
   <diagram name="第 1 页" id="gQLQlzKJruBYyOuigyDQ">
     <mxGraphModel dx="2243" dy="1284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,7 +377,7 @@
         <mxCell id="8Yvj-7YeM4l-WtYFCeeh-105" value="匹配成功" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1155.5" y="480" width="75" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="8Yvj-7YeM4l-WtYFCeeh-108" value="调整&lt;br&gt;型号配置匹配逻辑" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;" vertex="1" parent="1">
+        <mxCell id="8Yvj-7YeM4l-WtYFCeeh-108" value="调整&lt;br&gt;型号匹配接口" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;" vertex="1" parent="1">
           <mxGeometry x="692.78" y="477.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
