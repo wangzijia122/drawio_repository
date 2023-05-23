@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T09:34:36.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="MgzzV09NVdtvMr93cU7r" version="21.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-23T09:35:12.334Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="IHFLWkm2akdPaOIuysrI" version="21.3.2" type="github" pages="3">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="3000" dy="1703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1199,7 +1199,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YXMZbPSVWRoSiKI46MmT" name="一期（概念）">
-    <mxGraphModel dx="1750" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="840" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1855,6 +1855,9 @@
         <mxCell id="j1UK2c7IWKzvbKrbZ8Jv-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j1UK2c7IWKzvbKrbZ8Jv-170" target="j1UK2c7IWKzvbKrbZ8Jv-177">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j1UK2c7IWKzvbKrbZ8Jv-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j1UK2c7IWKzvbKrbZ8Jv-170" target="j1UK2c7IWKzvbKrbZ8Jv-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j1UK2c7IWKzvbKrbZ8Jv-170" value="云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1869,6 +1872,9 @@
         </mxCell>
         <mxCell id="j1UK2c7IWKzvbKrbZ8Jv-177" value="数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1UK2c7IWKzvbKrbZ8Jv-179" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
