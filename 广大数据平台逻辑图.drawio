@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T05:52:26.727Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="DJmuwLhHLR29hUAVW9ZB" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T05:54:30.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="aKoI2T2lxpaB2S5T_R1F" version="21.3.2" type="github">
   <diagram name="第 1 页" id="iISZ1i06i-iWEMT5HrnV">
-    <mxGraphModel dx="913" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -438,6 +438,26 @@
             <Array as="points">
               <mxPoint x="650" y="315" />
               <mxPoint x="650" y="496" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XsBrNHMWEvMUsBHtOvP9-215" value="用户管理" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="760" y="720" width="150" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="XsBrNHMWEvMUsBHtOvP9-216" value="个人中心" style="text;strokeColor=#2D7600;fillColor=#60a917;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="XsBrNHMWEvMUsBHtOvP9-215">
+          <mxGeometry y="26" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsBrNHMWEvMUsBHtOvP9-217" value="用户管理" style="text;strokeColor=#2D7600;fillColor=#60a917;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="XsBrNHMWEvMUsBHtOvP9-215">
+          <mxGeometry y="56" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsBrNHMWEvMUsBHtOvP9-218" value="权限管理" style="text;strokeColor=#2D7600;fillColor=#60a917;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="XsBrNHMWEvMUsBHtOvP9-215">
+          <mxGeometry y="86" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XsBrNHMWEvMUsBHtOvP9-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XsBrNHMWEvMUsBHtOvP9-44" target="XsBrNHMWEvMUsBHtOvP9-215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="345" />
+              <mxPoint x="630" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
