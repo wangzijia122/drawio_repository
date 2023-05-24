@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:14:13.279Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="Ssqg7HP9vJzQGJ4OE12w" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:14:45.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="H6H93yMahdHCIeOtQhsp" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I9g7NzYRAAUOMHc2zNAq">
-    <mxGraphModel dx="1651" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2474" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -580,7 +580,7 @@
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-237" value="msrp/1.13*discount" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-236">
           <mxGeometry x="0.4431" relative="1" as="geometry">
-            <mxPoint x="29" as="offset" />
+            <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-169" target="ni675cO9meFeCLo_8kgF-57">
@@ -685,7 +685,7 @@
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-259" value="length*width*height/1000000000*海运单价(美元/立方米)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-258">
           <mxGeometry x="0.572" y="-1" relative="1" as="geometry">
-            <mxPoint x="-28" y="-1" as="offset" />
+            <mxPoint x="-87" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-260" value="global_ucar_target_data.ucar_export_cost_price" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
@@ -743,7 +743,7 @@
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-279" value="Distance*国内运输平均费用(元/公里)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-278">
           <mxGeometry x="0.4025" y="-1" relative="1" as="geometry">
-            <mxPoint x="54" y="-1" as="offset" />
+            <mxPoint x="-24" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-280" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-252" target="ni675cO9meFeCLo_8kgF-45">
@@ -771,7 +771,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-288" value="global_index_target_data.exchange_rate" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="700" width="310" height="180" as="geometry" />
+          <mxGeometry x="-390" y="670" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-289" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-288">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -841,7 +841,7 @@
         <mxCell id="ni675cO9meFeCLo_8kgF-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-298" target="ni675cO9meFeCLo_8kgF-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="1045" />
+              <mxPoint x="210" y="805" />
               <mxPoint x="210" y="655" />
             </Array>
           </mxGeometry>
@@ -854,7 +854,7 @@
         <mxCell id="ni675cO9meFeCLo_8kgF-305" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-301" target="ni675cO9meFeCLo_8kgF-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="1075" />
+              <mxPoint x="210" y="835" />
               <mxPoint x="210" y="685" />
             </Array>
           </mxGeometry>
