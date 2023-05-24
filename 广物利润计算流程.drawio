@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:14:52.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="5i3dPn2WU8ExbTBdVzEc" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:15:14.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="NKrpBsRKwYvZRSoQOSU0" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I9g7NzYRAAUOMHc2zNAq">
     <mxGraphModel dx="2474" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -288,7 +288,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-68" value="total_cost&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;NOT NULL&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;double(0,2)&lt;/span&gt;&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-66">
+        <mxCell id="ni675cO9meFeCLo_8kgF-68" value="total_cost&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;NOT NULL&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;double(0,2)&lt;/span&gt;&lt;/span&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="ni675cO9meFeCLo_8kgF-66">
           <mxGeometry x="60" width="300" height="30" as="geometry">
             <mxRectangle width="300" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -492,7 +492,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-187" value="global_car_target_data.new_car" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1010" width="310" height="180" as="geometry" />
+          <mxGeometry x="-390" y="880" width="310" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-188" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-187">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -940,6 +940,14 @@
             <Array as="points">
               <mxPoint x="910" y="535" />
               <mxPoint x="910" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ni675cO9meFeCLo_8kgF-327" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-194" target="ni675cO9meFeCLo_8kgF-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="985" />
+              <mxPoint x="250" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
