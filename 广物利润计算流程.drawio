@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T03:50:41.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="s8hjwJ_y52jQyH3017mM" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T03:51:12.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="MiqE5sJ_cfqoNgn7UReN" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I9g7NzYRAAUOMHc2zNAq">
     <mxGraphModel dx="2259" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1112,7 +1112,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-360" value="export_tax_rebate_rate&amp;nbsp;*&amp;nbsp;domestic_price" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-359">
+        <mxCell id="ni675cO9meFeCLo_8kgF-360" value="msrp*(1-discount) * export_tax_rebate_rate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-359">
           <mxGeometry x="0.3436" y="-2" relative="1" as="geometry">
             <mxPoint x="43" y="-2" as="offset" />
           </mxGeometry>
