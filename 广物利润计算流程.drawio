@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T01:48:53.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="87dkdsjXI72Fd6e81qgF" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T01:48:58.884Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="GTXuFw7b1GHcP2LA6sD1" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I9g7NzYRAAUOMHc2zNAq">
     <mxGraphModel dx="3361" dy="2546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -980,7 +980,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-337" value="采购车源城市：广州、杭州、长春、郑州" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="450" width="230" height="60" as="geometry" />
+          <mxGeometry x="1370" y="440" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-339" target="ni675cO9meFeCLo_8kgF-315">
           <mxGeometry relative="1" as="geometry" />
