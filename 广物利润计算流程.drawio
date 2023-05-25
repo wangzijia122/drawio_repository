@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T03:51:12.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="MiqE5sJ_cfqoNgn7UReN" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T03:52:22.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="gXBiBbybhzm9Y6YbCyfE" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I9g7NzYRAAUOMHc2zNAq">
     <mxGraphModel dx="2259" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ni675cO9meFeCLo_8kgF-368" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-166" target="ni675cO9meFeCLo_8kgF-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="294.73913043478296" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="295" />
+              <mxPoint x="50" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-329" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-356" target="ni675cO9meFeCLo_8kgF-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -669,7 +678,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-237" value="msrp*(1-discount)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-236">
+        <mxCell id="ni675cO9meFeCLo_8kgF-237" value="msrp*(1-discount) +&amp;nbsp;pruchase_tax(0)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-236">
           <mxGeometry x="0.4431" relative="1" as="geometry">
             <mxPoint x="-17" as="offset" />
           </mxGeometry>
@@ -1107,8 +1116,9 @@
         <mxCell id="ni675cO9meFeCLo_8kgF-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-166" target="ni675cO9meFeCLo_8kgF-352">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="265" />
-              <mxPoint x="40" y="535" />
+              <mxPoint x="-80" y="265" />
+              <mxPoint x="50" y="265" />
+              <mxPoint x="50" y="535" />
             </Array>
           </mxGeometry>
         </mxCell>
