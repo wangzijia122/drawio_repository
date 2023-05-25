@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T04:15:26.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="LbIf3ZK6P3Vc_n-tGtqE" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T04:19:32.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.50" etag="Yht9g0fYp4FdSOMMdSY3" version="21.3.2" type="github">
   <diagram name="第 1 页" id="I9g7NzYRAAUOMHc2zNAq">
     <mxGraphModel dx="2765" dy="2222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,8 +8,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="20" y="294.73913043478296" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="50" y="295" />
-              <mxPoint x="50" y="505" />
+              <mxPoint x="70" y="265" />
+              <mxPoint x="70" y="505" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -227,7 +227,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-371" value="domestic_price&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;NOT NULL&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-369">
+        <mxCell id="ni675cO9meFeCLo_8kgF-371" value="pruchase_tax&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;NOT NULL&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-369">
           <mxGeometry x="60" width="300" height="30" as="geometry">
             <mxRectangle width="300" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -482,21 +482,8 @@
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-365" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ni675cO9meFeCLo_8kgF-150">
-          <mxGeometry y="210" width="310" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-366" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-365">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-367" value=" export_tax_rebate_rate&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;NOT NULL&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Float" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-365">
-          <mxGeometry x="30" width="280" height="30" as="geometry">
-            <mxRectangle width="280" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-166" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ni675cO9meFeCLo_8kgF-150">
-          <mxGeometry y="240" width="310" height="30" as="geometry" />
+          <mxGeometry y="210" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-167" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-166">
           <mxGeometry width="30" height="30" as="geometry">
@@ -504,6 +491,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-168" value="&lt;span style=&quot;&quot;&gt;pruchase_tax&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;NOT NULL&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Int" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-166">
+          <mxGeometry x="30" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ni675cO9meFeCLo_8kgF-365" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="ni675cO9meFeCLo_8kgF-150">
+          <mxGeometry y="240" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ni675cO9meFeCLo_8kgF-366" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-365">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ni675cO9meFeCLo_8kgF-367" value=" export_tax_rebate_rate&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;NOT NULL&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;Float" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="ni675cO9meFeCLo_8kgF-365">
           <mxGeometry x="30" width="280" height="30" as="geometry">
             <mxRectangle width="280" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -691,7 +691,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-237" value="msrp*(1-discount) +&amp;nbsp;pruchase_tax(0)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-236">
+        <mxCell id="ni675cO9meFeCLo_8kgF-237" value="msrp*(1-discount) + 购置税(0)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-236">
           <mxGeometry x="0.4431" relative="1" as="geometry">
             <mxPoint x="31" as="offset" />
           </mxGeometry>
@@ -1126,12 +1126,11 @@
             <mxPoint x="-117" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ni675cO9meFeCLo_8kgF-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-166" target="ni675cO9meFeCLo_8kgF-352">
+        <mxCell id="ni675cO9meFeCLo_8kgF-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-365" target="ni675cO9meFeCLo_8kgF-352">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-80" y="265" />
-              <mxPoint x="50" y="265" />
-              <mxPoint x="50" y="565" />
+              <mxPoint x="30" y="295" />
+              <mxPoint x="30" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1150,6 +1149,19 @@
         </mxCell>
         <mxCell id="ni675cO9meFeCLo_8kgF-364" value="进口国家id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-363">
           <mxGeometry x="0.6655" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ni675cO9meFeCLo_8kgF-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ni675cO9meFeCLo_8kgF-166" target="ni675cO9meFeCLo_8kgF-369">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="265" />
+              <mxPoint x="50" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ni675cO9meFeCLo_8kgF-373" value="购置税(0)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ni675cO9meFeCLo_8kgF-372">
+          <mxGeometry x="0.3975" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
