@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T03:14:25.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="vHDdGWr-Fz305YOftx_h" version="21.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-19T03:17:59.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="1f7NHd9Op1FCm9eruv1w" version="21.3.7" type="github" pages="9">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3782,8 +3782,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="n7RePsKThi7vZhhYQs4L-92" value="&lt;h1&gt;政府工作报告&lt;/h1&gt;&lt;p&gt;操作逻辑：&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;统计结果：&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="40" width="700" height="530" as="geometry" />
+        <mxCell id="n7RePsKThi7vZhhYQs4L-93" value="&lt;h1&gt;上市公司报告&lt;/h1&gt;&lt;p&gt;操作逻辑：&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;统计结果：&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="635" width="510" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="n7RePsKThi7vZhhYQs4L-92" value="&lt;h1&gt;政府工作报告&lt;/h1&gt;&lt;p&gt;操作逻辑：&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;统计结果：&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="670" height="530" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-31" value="市报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="220" height="270" as="geometry" />
@@ -3836,9 +3839,6 @@
         <mxCell id="n7RePsKThi7vZhhYQs4L-87" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-40">
           <mxGeometry y="210" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-45" value="上市公司报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="560" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-46" value="选择报告类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="100" height="40" as="geometry" />
         </mxCell>
@@ -3878,25 +3878,22 @@
           <mxGeometry x="400" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-52" value="市报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="680" width="200" height="180" as="geometry" />
+          <mxGeometry x="40" y="850" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-53" value="行业名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-54" value="省名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
+        <mxCell id="n7RePsKThi7vZhhYQs4L-61" value="发布年份" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="60" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-61" value="年份" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
+        <mxCell id="n7RePsKThi7vZhhYQs4L-55" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-55" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
+        <mxCell id="n7RePsKThi7vZhhYQs4L-56" value="词频（句子字数总和/报告总字数）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-56" value="词频（句子字数总和/报告总字数）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-57" value="省报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="680" width="196" height="120" as="geometry" />
+          <mxGeometry x="270" y="850" width="196" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-58" value="省名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
           <mxGeometry y="30" width="196" height="30" as="geometry" />
@@ -3911,18 +3908,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-69" value="输入关键词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="605" width="100" height="40" as="geometry" />
+          <mxGeometry x="170" y="715" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-70" value="展示统计结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="605" width="100" height="40" as="geometry" />
+          <mxGeometry x="300" y="715" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n7RePsKThi7vZhhYQs4L-75" target="n7RePsKThi7vZhhYQs4L-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="170" y="625" as="targetPoint" />
+            <mxPoint x="170" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-75" value="1. 选择报告类型&lt;br&gt;2.&amp;nbsp;选择行业&lt;br&gt;3.&amp;nbsp;选择年份" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="40" y="600" width="100" height="50" as="geometry" />
+          <mxGeometry x="40" y="710" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-79" value="导出统计结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="100" height="40" as="geometry" />
