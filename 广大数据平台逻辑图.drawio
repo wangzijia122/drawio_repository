@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T03:19:25.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="Pa5qpA5uoqUIKYG6buNQ" version="21.3.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-19T03:48:43.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="mu8Wdby1876yScGKT-aI" version="21.3.7" type="github" pages="9">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3877,8 +3877,8 @@
         <mxCell id="n7RePsKThi7vZhhYQs4L-51" value="展示统计结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-52" value="市报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="850" width="200" height="150" as="geometry" />
+        <mxCell id="n7RePsKThi7vZhhYQs4L-52" value="报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="200" height="210" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-53" value="行业名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="30" width="200" height="30" as="geometry" />
@@ -3889,11 +3889,17 @@
         <mxCell id="n7RePsKThi7vZhhYQs4L-55" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="90" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-56" value="词频（句子字数总和/报告总字数）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
+        <mxCell id="n7RePsKThi7vZhhYQs4L-107" value="句子数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
           <mxGeometry y="120" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="n7RePsKThi7vZhhYQs4L-109" value="句子字数总和" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
+          <mxGeometry y="150" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n7RePsKThi7vZhhYQs4L-108" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-52">
+          <mxGeometry y="180" width="200" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-57" value="省报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="850" width="196" height="120" as="geometry" />
+          <mxGeometry x="260" y="850" width="196" height="180" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-58" value="省名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
           <mxGeometry y="30" width="196" height="30" as="geometry" />
@@ -3901,8 +3907,14 @@
         <mxCell id="n7RePsKThi7vZhhYQs4L-59" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
           <mxGeometry y="60" width="196" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n7RePsKThi7vZhhYQs4L-60" value="词频（句子字数总和/报告总字数）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
+        <mxCell id="n7RePsKThi7vZhhYQs4L-60" value="句子数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
           <mxGeometry y="90" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n7RePsKThi7vZhhYQs4L-110" value="句子字数总和" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
+          <mxGeometry y="120" width="196" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n7RePsKThi7vZhhYQs4L-111" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="n7RePsKThi7vZhhYQs4L-57">
+          <mxGeometry y="150" width="196" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n7RePsKThi7vZhhYQs4L-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="n7RePsKThi7vZhhYQs4L-70">
           <mxGeometry relative="1" as="geometry">
