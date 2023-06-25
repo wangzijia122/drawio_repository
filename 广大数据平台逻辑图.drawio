@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T08:09:50.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="EF4eGESvCeTjRmVnEzU6" version="21.5.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-25T08:17:35.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="1-UkXEl1WiwF_nuD9AJd" version="21.5.0" type="github" pages="9">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3825,7 +3825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MURdw7_g_UqUz04taa7s" name="AI工具词频统计">
-    <mxGraphModel dx="1136" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4060,7 +4060,10 @@
         <mxCell id="BFKdSmuFdxzarRLoUgq4-32" value="生成新任务写入任务表&lt;br&gt;（任务进度0%）" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-11" vertex="1">
           <mxGeometry x="27.35" y="530" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BFKdSmuFdxzarRLoUgq4-53" value="查询明细数据&lt;br&gt;（excel路径）" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-11" vertex="1">
+        <mxCell id="bbZuFETQhLPzAYPo7cAJ-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-11" source="BFKdSmuFdxzarRLoUgq4-53" target="bbZuFETQhLPzAYPo7cAJ-189">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BFKdSmuFdxzarRLoUgq4-53" value="查询excel路径" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-11" vertex="1">
           <mxGeometry x="25.00000000000002" y="1110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-11" source="bbZuFETQhLPzAYPo7cAJ-124" target="BFKdSmuFdxzarRLoUgq4-32">
@@ -4083,8 +4086,17 @@
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-161" value="获取文件oss路径" style="html=1;whiteSpace=wrap;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-11">
           <mxGeometry x="27.35" y="630" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="bbZuFETQhLPzAYPo7cAJ-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-11" source="bbZuFETQhLPzAYPo7cAJ-164" target="bbZuFETQhLPzAYPo7cAJ-191">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-164" value="查询频次分析" style="html=1;whiteSpace=wrap;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-11">
           <mxGeometry x="25" y="1220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bbZuFETQhLPzAYPo7cAJ-189" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-11">
+          <mxGeometry x="40" y="990" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bbZuFETQhLPzAYPo7cAJ-191" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-11">
+          <mxGeometry x="40" y="1310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-128" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-8" source="bbZuFETQhLPzAYPo7cAJ-124" target="bbZuFETQhLPzAYPo7cAJ-127">
           <mxGeometry relative="1" as="geometry" />
@@ -4143,10 +4155,10 @@
         <mxCell id="BFKdSmuFdxzarRLoUgq4-47" value="文件转doc" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-12" vertex="1">
           <mxGeometry x="187" y="845" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bbZuFETQhLPzAYPo7cAJ-148" value="生成excel保存到oss，路径写到任务表" style="html=1;whiteSpace=wrap;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-12">
+        <mxCell id="bbZuFETQhLPzAYPo7cAJ-148" value="生成excel&lt;br&gt;（路径写到任务表）" style="html=1;whiteSpace=wrap;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-12">
           <mxGeometry x="24" y="1110" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bbZuFETQhLPzAYPo7cAJ-152" value="频次分析写入分析表" style="html=1;whiteSpace=wrap;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-12">
+        <mxCell id="bbZuFETQhLPzAYPo7cAJ-152" value="生成频次分析&lt;br&gt;(写入分析表)" style="html=1;whiteSpace=wrap;" vertex="1" parent="BFKdSmuFdxzarRLoUgq4-12">
           <mxGeometry x="187" y="1110" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-8" source="bbZuFETQhLPzAYPo7cAJ-116" target="BFKdSmuFdxzarRLoUgq4-18">
