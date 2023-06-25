@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T08:07:46.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="SZyz_LkVqVFON_uWP2en" version="21.5.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-06-25T08:09:50.230Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.51" etag="EF4eGESvCeTjRmVnEzU6" version="21.5.0" type="github" pages="9">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3825,7 +3825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MURdw7_g_UqUz04taa7s" name="AI工具词频统计">
-    <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1136" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4057,7 +4057,7 @@
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-11" source="BFKdSmuFdxzarRLoUgq4-32" target="bbZuFETQhLPzAYPo7cAJ-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BFKdSmuFdxzarRLoUgq4-32" value="生成新任务写入任务表，任务进度0%" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-11" vertex="1">
+        <mxCell id="BFKdSmuFdxzarRLoUgq4-32" value="生成新任务写入任务表&lt;br&gt;（任务进度0%）" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-11" vertex="1">
           <mxGeometry x="27.35" y="530" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BFKdSmuFdxzarRLoUgq4-53" value="查询明细数据&lt;br&gt;（excel路径）" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-11" vertex="1">
@@ -4132,7 +4132,7 @@
         <mxCell id="bbZuFETQhLPzAYPo7cAJ-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BFKdSmuFdxzarRLoUgq4-12" source="BFKdSmuFdxzarRLoUgq4-44" target="bbZuFETQhLPzAYPo7cAJ-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BFKdSmuFdxzarRLoUgq4-44" value="统计词频，任务进度更新到任务表" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-12" vertex="1">
+        <mxCell id="BFKdSmuFdxzarRLoUgq4-44" value="统计词频&lt;br&gt;（更新任务进度）" style="html=1;whiteSpace=wrap;" parent="BFKdSmuFdxzarRLoUgq4-12" vertex="1">
           <mxGeometry x="24" y="970" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BFKdSmuFdxzarRLoUgq4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="BFKdSmuFdxzarRLoUgq4-12" source="BFKdSmuFdxzarRLoUgq4-47" target="BFKdSmuFdxzarRLoUgq4-44" edge="1">
