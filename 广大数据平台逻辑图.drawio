@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T09:25:55.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5O3BTzwIaF8-JSAs6X9T" version="21.5.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-06-25T10:28:13.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="H6MUXHh5ejEmWA2eUXCZ" version="21.5.0" type="github" pages="10">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="1034" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3825,7 +3825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MURdw7_g_UqUz04taa7s" name="AI词频统计前端页面">
-    <mxGraphModel dx="921" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1151" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4095,7 +4095,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DPcIbN58rr9YXIBGAn4Z" name="AI词频统计后端交互">
-    <mxGraphModel dx="1366" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
