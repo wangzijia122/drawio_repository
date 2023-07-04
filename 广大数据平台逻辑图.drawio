@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T10:36:42.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="vYyGv5npOLrOazwpHeic" version="21.5.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-07-04T11:01:02.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="E56rakq122KUA0xbzxMe" version="21.5.2" type="github" pages="10">
   <diagram name="一期" id="iISZ1i06i-iWEMT5HrnV">
     <mxGraphModel dx="1887" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1405,7 +1405,7 @@
         <mxCell id="VJP65gamnETntW3VtLmZ-47" value="└ 城市数字金融特色库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="VJP65gamnETntW3VtLmZ-32">
           <mxGeometry y="416" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VJP65gamnETntW3VtLmZ-48" value="└&amp;nbsp;全国宏观经济基础库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="VJP65gamnETntW3VtLmZ-32">
+        <mxCell id="VJP65gamnETntW3VtLmZ-48" value="└ 宏观经济数据基础库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="VJP65gamnETntW3VtLmZ-32">
           <mxGeometry y="446" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VJP65gamnETntW3VtLmZ-49" value="└&amp;nbsp;政府工作报告基础库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="VJP65gamnETntW3VtLmZ-32">
@@ -1493,6 +1493,94 @@
             <Array as="points">
               <mxPoint x="290" y="411" />
               <mxPoint x="290" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-90" value="特色指数" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="686" width="190" height="116" as="geometry">
+            <mxRectangle x="70" y="190" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-91" value="省域数字经济指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-90">
+          <mxGeometry y="26" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-95" value="城市数字经济指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-90">
+          <mxGeometry y="56" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-98" value="城市数字金融指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-90">
+          <mxGeometry y="86" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-102" value="数据" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="246" width="190" height="386" as="geometry">
+            <mxRectangle x="70" y="190" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-103" value="特色指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="26" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-107" value="└&amp;nbsp;省域数字经济指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="56" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-108" value="└ 城市数字经济指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="86" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-109" value="└&amp;nbsp;城市数字金融指数" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="116" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-104" value="特色库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="146" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-105" value="└&amp;nbsp;省域数字经济数据库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="176" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-111" value="└ 城市数字经济数据库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="206" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-112" value="└ 城市数字金融数据库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="236" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-113" value="基础库" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="266" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-114" value="└ 宏观经济数据" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="296" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-115" value="└&amp;nbsp;政府工作报告" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="326" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-116" value="└&amp;nbsp;上市公司报告" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry y="356" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VJP65gamnETntW3VtLmZ-34" target="VJP65gamnETntW3VtLmZ-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-118" value="特色库" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="720" y="836" width="190" height="116" as="geometry">
+            <mxRectangle x="70" y="190" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-119" value="省域数字经济指标" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-118">
+          <mxGeometry y="26" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-120" value="城市数字经济指标" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-118">
+          <mxGeometry y="56" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-121" value="城市数字金融指标" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="VJP65gamnETntW3VtLmZ-118">
+          <mxGeometry y="86" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VJP65gamnETntW3VtLmZ-37" target="VJP65gamnETntW3VtLmZ-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="351" />
+              <mxPoint x="660" y="851" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJP65gamnETntW3VtLmZ-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VJP65gamnETntW3VtLmZ-36" target="VJP65gamnETntW3VtLmZ-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="321" />
+              <mxPoint x="690" y="701" />
             </Array>
           </mxGeometry>
         </mxCell>
