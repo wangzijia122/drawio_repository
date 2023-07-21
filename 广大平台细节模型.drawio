@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T07:53:19.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="UDAZxSxXwld5uwz52hHN" version="21.6.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-21T07:53:45.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="voRejgQtl2Fqa1Nf8YJT" version="21.6.5" type="github" pages="9">
   <diagram name="一期平台原型" id="7vqjUSaPkWFY0bzkxEbH">
     <mxGraphModel dx="1647" dy="895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6291,111 +6291,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-1" value="上市公司报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="411" y="1190" width="290" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-2" value="公司名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="30" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-3" value="行业" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="60" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-4" value="报告类型&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;[年报，一季度报，三季度报，半年报]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="90" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-5" value="发布年份" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="120" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-6" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="150" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-7" value="所在句子数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="180" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-8" value="关键词出现次数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="210" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-9" value="所在句子总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="240" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-10" value="报告总句数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="270" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-11" value="报告总词数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="300" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-12" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-1">
-          <mxGeometry y="330" width="290" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-13" value="省政府工作报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="731" y="1190" width="160" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-14" value="省份名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-15" value="报告类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-16" value="发布年份" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-17" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-18" value="所在句子数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="150" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-19" value="关键词出现次数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="180" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-20" value="所在句子总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="210" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-21" value="报告总句数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="240" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-22" value="报告总词数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="270" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-23" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-13">
-          <mxGeometry y="300" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-24" value="市政府工作报告统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="911" y="1190" width="160" height="360" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-25" value="省份名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-26" value="城市名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-27" value="报告类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-28" value="发布年份" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-29" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="150" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-30" value="所在句子数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="180" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-31" value="关键词出现次数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="210" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-32" value="所在句子总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="240" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-33" value="报告总句数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="270" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-34" value="报告总词数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="300" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-35" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-24">
-          <mxGeometry y="330" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Pxojf_Ui2oUGQRfnZpZc-36" value="algo_gzhu_data.algo_wordcount_task" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="21" y="1670" width="410" height="210" as="geometry" />
         </mxCell>
@@ -6573,42 +6468,6 @@
         </mxCell>
         <mxCell id="Pxojf_Ui2oUGQRfnZpZc-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="Pxojf_Ui2oUGQRfnZpZc-37" target="Pxojf_Ui2oUGQRfnZpZc-59">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-78" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="21" y="1200" width="20" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-79" value="&lt;br&gt;&#39;md5&#39;: &#39;ASKDJFH8AS98ASKJD&#39;&lt;br&gt;&#39;catagory&#39;: &#39;建筑业&#39; / &#39;市政府工作报告&#39; / &#39;省政府工作报告&#39;,&lt;br&gt;&#39;keywords&#39;: [&#39;A&#39;, &#39;B&#39;, &#39;C&#39;]&lt;br&gt;&#39;file_dir&#39;: [{&#39;name&#39;: &#39;xxx公司&#39;,&amp;nbsp;&lt;br&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#39;oss_dir&#39;: &#39;/oss/xxx公司报告.doc&#39;,&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#39;report_type&#39;: &#39;年报&#39;/ &#39;季报&#39; / &#39;半年报&#39;,&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&#39;year&#39;: 2020&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;},&lt;/blockquote&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;{&#39;name&#39;: &#39;广东省&#39;,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&#39;oss_dir&#39;: &#39;/oss/广东省政府报告.pdf&#39;,&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&#39;report_type&#39;: &#39;工作报告&#39;,&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&#39;year&#39;: 2020&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;},&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&amp;nbsp; &amp;nbsp; {&#39;name&#39;: &#39;广州市&#39;,&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&#39;oss_dir&#39;: &#39;/oss/广州市政府报告.pdf&#39;,&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&#39;report_type&#39;: &#39;工作报告&#39;,&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&#39;year&#39;: 2020&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;border: none; margin: 0px 0px 0px 40px; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;/span&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&amp;nbsp;]&lt;/blockquote&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="51" y="1190" width="340" height="280" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-80" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="366" y="1200" width="20" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-81" value="自定义文件统计结果" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1091" y="1190" width="150" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-82" value="文件名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="30" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-83" value="关键词" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="60" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-84" value="所在句子数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="90" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-85" value="关键词出现次数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="120" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-86" value="所在句子总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="150" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-87" value="报告总句数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="180" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-88" value="报告总词数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="210" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Pxojf_Ui2oUGQRfnZpZc-89" value="报告总字数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Pxojf_Ui2oUGQRfnZpZc-81">
-          <mxGeometry y="240" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
