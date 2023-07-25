@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T01:27:08.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="jWVPacTBQqu6DI-6dSKc" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-25T01:29:24.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="pn4k45ZzPwLEKOQAW-O8" version="21.6.5" type="github" pages="2">
   <diagram name="流程" id="gQLQlzKJruBYyOuigyDQ">
     <mxGraphModel dx="1938" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,7 +692,7 @@
             <mxRectangle width="190" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wfWgKFsceB4iy1zxM66C-55" value="型号配置参数表" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="wfWgKFsceB4iy1zxM66C-55" value="主数据" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="890" y="70" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wfWgKFsceB4iy1zxM66C-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=18;" parent="wfWgKFsceB4iy1zxM66C-55" vertex="1">
