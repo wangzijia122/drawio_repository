@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T07:34:16.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="ngWk9VoTnb_l2-xCOIU3" version="21.6.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-28T08:21:13.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="dArIc7pYGJsONraEPn51" version="21.6.9" type="github" pages="4">
   <diagram name="流程" id="0Bon8CFjZLaogkEp7ciW">
-    <mxGraphModel dx="1365" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="936" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -296,6 +296,207 @@
         </mxCell>
         <mxCell id="Rz3pzk1c4mCuOzyUCJBy-30" value="ADS层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="390" y="3040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-50" value="分层库表" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="3120" width="380" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="30" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-52" value="分层" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-51">
+          <mxGeometry width="40" height="20" as="geometry">
+            <mxRectangle width="40" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-53" value="数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-51">
+          <mxGeometry x="40" width="180" height="20" as="geometry">
+            <mxRectangle width="180" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-54" value="解释" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-51">
+          <mxGeometry x="220" width="160" height="20" as="geometry">
+            <mxRectangle width="160" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="50" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-56" value="ODS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-55">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-57" value="ods_overseas_new_car" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-55">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-58" value="操作层海外新车数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-55">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="80" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-93" value="ODS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-92">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-94" value="ods_overseas_used_car" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-92">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-95" value="操作层海外二手车数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-92">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-96" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="110" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-97" value="ODS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-96">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-98" value="ods_overseas_used_machinery" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-96">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-99" value="操作层海外二手工程车数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-96">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-100" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="140" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-101" value="ODS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-100">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-102" value="ods_overseas_masterdata" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-100">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-103" value="操作层海外主数据数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-100">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="170" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-60" value="DWD" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-59">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-61" value="dwd_overseas_new_car" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-59">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-62" value="明细层海外新车数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-59">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-84" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="200" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-85" value="DWD" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-84">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-86" value="dwd_overseas_used_car" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-84">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-87" value="明细层海外二手车数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-84">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-88" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="230" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-89" value="DWD" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-88">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-90" value="dwd_overseas_used_machinery" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-88">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-91" value="明细层海外二手工程车数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-88">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-104" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="260" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-105" value="DWD" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-104">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-106" value="dwd_overseas_masterdata" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-104">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-107" value="明细层海外主数据数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-104">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-108" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="290" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-109" value="DWS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-108">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-110" value="dws_overseas_vehicle" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-108">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-111" value="聚合层海外车辆数据库" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-108">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-112" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-50">
+          <mxGeometry y="320" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-113" value="ADS" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-112">
+          <mxGeometry width="40" height="30" as="geometry">
+            <mxRectangle width="40" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-114" value="global_car_target_data" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-112">
+          <mxGeometry x="40" width="180" height="30" as="geometry">
+            <mxRectangle width="180" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rz3pzk1c4mCuOzyUCJBy-115" value="全球汽车数据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;" vertex="1" parent="Rz3pzk1c4mCuOzyUCJBy-112">
+          <mxGeometry x="220" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
