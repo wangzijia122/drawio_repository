@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T02:16:15.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="8Q8lpDyhL2j6Yzi8KEEe" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T02:18:00.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="fjgCRXw6fseuiMqUQuzE" version="21.7.0" type="github">
   <diagram name="第 1 页" id="xS20llQHIGYEkxfeYoXw">
-    <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1424" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -368,7 +368,10 @@
             <mxPoint x="250" y="1130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-136" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-93" target="SpvelTxBawjxUC9liyV8-135">
+        <mxCell id="SpvelTxBawjxUC9liyV8-150" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-93" target="SpvelTxBawjxUC9liyV8-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-151" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-93" target="SpvelTxBawjxUC9liyV8-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-93" value="数据生命周期" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
@@ -499,28 +502,28 @@
         <mxCell id="SpvelTxBawjxUC9liyV8-130" value="名称" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="10" y="815" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-131" value="开发阶段" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-131" value="处理阶段" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="255" y="1067.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-135" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1151" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-137" value="处理频率" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="255" y="1108.67" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-137" value="粒度" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="255" y="1162.67" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-139" value="获取周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-139" value="获取频率" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="380" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-141" value="获取周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-141" value="抽取频率" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-143" value="转换周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-143" value="转换频率" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-145" value="加载周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-145" value="加载频率" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1130" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-147" value="同步周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-147" value="同步频率" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1390" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
