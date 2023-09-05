@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T02:11:47.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="Z4IVtKcGDE_rAzQx-5X2" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T02:16:15.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="8Q8lpDyhL2j6Yzi8KEEe" version="21.7.0" type="github">
   <diagram name="第 1 页" id="xS20llQHIGYEkxfeYoXw">
-    <mxGraphModel dx="780" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,10 +188,10 @@
           <mxGeometry x="340" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-27" value="分层" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="314" y="472.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="312" y="472.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-29" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="447" y="473.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="448" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-32" target="SpvelTxBawjxUC9liyV8-7">
           <mxGeometry relative="1" as="geometry" />
@@ -227,10 +227,10 @@
           <mxGeometry x="505" y="325" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-42" value="分层" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="565" y="473.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="562" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-43" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="695" y="473.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="698" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-47" target="SpvelTxBawjxUC9liyV8-38">
           <mxGeometry relative="1" as="geometry" />
@@ -263,10 +263,10 @@
           <mxGeometry x="860" y="393.09000000000003" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-57" value="分层" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="814" y="472.49999999999994" width="60" height="30" as="geometry" />
+          <mxGeometry x="812" y="472.49999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-58" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="946" y="473.49999999999994" width="60" height="30" as="geometry" />
+          <mxGeometry x="948" y="473.49999999999994" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-60" target="SpvelTxBawjxUC9liyV8-56">
           <mxGeometry relative="1" as="geometry" />
@@ -295,14 +295,17 @@
         <mxCell id="SpvelTxBawjxUC9liyV8-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-69" target="SpvelTxBawjxUC9liyV8-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-146" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-69" target="SpvelTxBawjxUC9liyV8-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-69" value="聚合数据" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1110" y="393.1700000000001" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-70" value="分层" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="472.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1062" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-71" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="472.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1198" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-73" target="SpvelTxBawjxUC9liyV8-69">
           <mxGeometry relative="1" as="geometry" />
@@ -328,14 +331,17 @@
         <mxCell id="SpvelTxBawjxUC9liyV8-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-81" target="SpvelTxBawjxUC9liyV8-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-148" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-81" target="SpvelTxBawjxUC9liyV8-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-81" value="服务/应用数据" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1370" y="392.6700000000002" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-82" value="分层" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="472.0000000000001" width="60" height="30" as="geometry" />
+          <mxGeometry x="1320" y="473.5000000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-83" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1430" y="472.0000000000001" width="60" height="30" as="geometry" />
+          <mxGeometry x="1460" y="473.5000000000001" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-85" target="SpvelTxBawjxUC9liyV8-81">
           <mxGeometry relative="1" as="geometry" />
@@ -508,8 +514,14 @@
         <mxCell id="SpvelTxBawjxUC9liyV8-141" value="获取周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SpvelTxBawjxUC9liyV8-143" value="获取周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SpvelTxBawjxUC9liyV8-143" value="转换周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="880" y="473.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-145" value="加载周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="473.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-147" value="同步周期" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="473.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
