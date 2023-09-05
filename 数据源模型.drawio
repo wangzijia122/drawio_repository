@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T01:58:56.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="tRkvXtgOk6Woj0WiQYkJ" version="21.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T02:00:38.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.69" etag="vJCxigCVf2AGDj3mMQo1" version="21.7.0" type="github">
   <diagram name="第 1 页" id="xS20llQHIGYEkxfeYoXw">
-    <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,6 +283,9 @@
         <mxCell id="SpvelTxBawjxUC9liyV8-68" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-69" target="SpvelTxBawjxUC9liyV8-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-69" target="SpvelTxBawjxUC9liyV8-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-69" value="聚合数据" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1300" y="601.1700000000001" width="100" height="40" as="geometry" />
         </mxCell>
@@ -300,6 +303,39 @@
         </mxCell>
         <mxCell id="SpvelTxBawjxUC9liyV8-74" value="数据量" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1195" y="533" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-78" target="SpvelTxBawjxUC9liyV8-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-77" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-78" target="SpvelTxBawjxUC9liyV8-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-78" value="同步" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="603.2500000000002" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-81" target="SpvelTxBawjxUC9liyV8-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-81" target="SpvelTxBawjxUC9liyV8-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-81" value="服务/应用数据" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="600.6700000000002" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-82" value="分层" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="680.0000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-83" value="存储位置" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1620" y="680.0000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-84" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SpvelTxBawjxUC9liyV8-85" target="SpvelTxBawjxUC9liyV8-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-85" value="粒度" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="532.5000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SpvelTxBawjxUC9liyV8-86" value="数据量" style="ellipse;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="532.5000000000001" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
