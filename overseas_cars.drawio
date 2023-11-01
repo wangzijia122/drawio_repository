@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T03:14:37.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.54" etag="eBqDpJ5TxeEMII9iPioG" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-01T05:54:29.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.76" etag="EY4BRCja0pcOGO5Ou-V6" version="21.8.0" type="github">
   <diagram id="1ojzTriwA27ISL8A96Mt" name="第 1 页">
-    <mxGraphModel dx="1422" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,14 +148,17 @@
         <mxCell id="94eqQ5V6Z24osNXofkiP-116" value="主数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-104" vertex="1">
           <mxGeometry x="60" y="170" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-96" value="汇总数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-104" vertex="1">
+        <mxCell id="94eqQ5V6Z24osNXofkiP-96" value="事实数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-104" vertex="1">
           <mxGeometry x="60.000816326530625" y="50" width="137.9591836734694" height="88.25000000000001" as="geometry" />
         </mxCell>
         <mxCell id="94eqQ5V6Z24osNXofkiP-114" value="DWS" style="swimlane;startSize=20;html=1;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-101" vertex="1">
           <mxGeometry x="870" y="20" width="200" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="94eqQ5V6Z24osNXofkiP-97" value="应用数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-114" vertex="1">
-          <mxGeometry x="30.880000000000003" y="110" width="138.25" height="88.75" as="geometry" />
+        <mxCell id="94eqQ5V6Z24osNXofkiP-97" value="标签数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" parent="94eqQ5V6Z24osNXofkiP-114" vertex="1">
+          <mxGeometry x="30.87" y="50" width="138.25" height="88.75" as="geometry" />
+        </mxCell>
+        <mxCell id="yBEJ7bYbTIXl4n-bQ5gH-1" value="宽表数据" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;container=0;fontSize=16;" vertex="1" parent="94eqQ5V6Z24osNXofkiP-114">
+          <mxGeometry x="30.879999999999995" y="170" width="138.25" height="88.75" as="geometry" />
         </mxCell>
         <mxCell id="94eqQ5V6Z24osNXofkiP-130" value="Exchange_Rate" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=16;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fontColor=#FFFFFF;fillColor=#0883FF;" parent="1" vertex="1">
           <mxGeometry x="910" y="160" width="220" height="180" as="geometry" />
