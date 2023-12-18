@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T04:19:19.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JTS-eyjmHjUjBwdGD3gj" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T04:20:00.104Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="jGsOpT3rk86iUd880lJj" version="22.1.11" type="github">
   <diagram name="第 1 页" id="mirYbQMiVhFN95CKVaj2">
-    <mxGraphModel dx="546" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="739" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -280,16 +280,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-81" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="215" width="20" height="120" as="geometry" />
+          <mxGeometry x="1090" y="215" width="20" height="85" as="geometry" />
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CMeogjNzOUKb7R3VNsTo-72" target="CMeogjNzOUKb7R3VNsTo-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-83" value="1. 如果有复审：取人工审核完成的时间，audit_type=1 and audit_result=?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="215" width="410" height="30" as="geometry" />
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-83" value="1. 如果有复审：取人工审核完成的时间&lt;br&gt;audit_type=1 and audit_result=?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="210" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-84" value="2. 如果没有复审&lt;span style=&quot;font-size: 12px;&quot;&gt;，即人工初审就通过了&lt;/span&gt;：取人工审核完成的时间，audit_type=1 and audit_result=1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="260" width="540" height="30" as="geometry" />
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-84" value="2. 如果没有复审&lt;span style=&quot;font-size: 12px;&quot;&gt;，即人工初审就通过了&lt;/span&gt;：取人工审核完成的时间&lt;br&gt;audit_type=1 and audit_result=1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="265" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
