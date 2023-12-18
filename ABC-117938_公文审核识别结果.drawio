@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T04:24:11.956Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="QDF-846pgashSvdi1AuC" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T04:26:45.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Hv28Dp7JESmS21-SdBQ2" version="22.1.11" type="github">
   <diagram name="第 1 页" id="mirYbQMiVhFN95CKVaj2">
-    <mxGraphModel dx="458" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -282,8 +282,8 @@
         <mxCell id="CMeogjNzOUKb7R3VNsTo-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CMeogjNzOUKb7R3VNsTo-72" target="CMeogjNzOUKb7R3VNsTo-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-83" value="1. 如果有复审：取人工审核完成的时间，&lt;br&gt;这个公文不存在audit_type=1 and audit_result=1的情况" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="227.5" width="310" height="40" as="geometry" />
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-83" value="1. 如果有复审：取人工审核完成的时间，&lt;br&gt;audit_type=1 and audit_result&amp;lt;&amp;gt;1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="227.5" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-84" value="2. 如果没有复审&lt;span style=&quot;font-size: 12px;&quot;&gt;，即人工初审就通过了&lt;/span&gt;：取人工审核完成的时间&lt;br&gt;audit_type=1 and audit_result=1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1060" y="282.5" width="360" height="40" as="geometry" />
