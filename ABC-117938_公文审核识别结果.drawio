@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T04:04:30.174Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="A5y-HzVF6u2eoQHNhJtQ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T04:19:19.646Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JTS-eyjmHjUjBwdGD3gj" version="22.1.11" type="github">
   <diagram name="第 1 页" id="mirYbQMiVhFN95CKVaj2">
-    <mxGraphModel dx="1146" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="546" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-1" value="pim_mcc_recognize_record" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-1" value="pim.pim_mcc_recognize_record" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="140" width="280" height="420" as="geometry" />
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="CMeogjNzOUKb7R3VNsTo-1">
@@ -176,7 +176,7 @@
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-48" value="pim_document_info" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-48" value="pim.pim_document_info" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="140" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="CMeogjNzOUKb7R3VNsTo-48">
@@ -221,7 +221,7 @@
         <mxCell id="CMeogjNzOUKb7R3VNsTo-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="CMeogjNzOUKb7R3VNsTo-52" target="CMeogjNzOUKb7R3VNsTo-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-62" value="pim_document_audit_flow_result" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-62" value="pim.pim_document_audit_flow_result" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="140" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="CMeogjNzOUKb7R3VNsTo-62">
@@ -271,13 +271,25 @@
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CMeogjNzOUKb7R3VNsTo-74" value="last_update_time&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;人工初审完成时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="CMeogjNzOUKb7R3VNsTo-72">
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-74" value="last_update_time&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;人工初审完成时间" style="shape=partialRectangle;connectable=0;fillColor=#fff2cc;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;strokeColor=#d6b656;" vertex="1" parent="CMeogjNzOUKb7R3VNsTo-72">
           <mxGeometry x="40" width="270" height="30" as="geometry">
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CMeogjNzOUKb7R3VNsTo-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="CMeogjNzOUKb7R3VNsTo-66" target="CMeogjNzOUKb7R3VNsTo-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-81" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="215" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CMeogjNzOUKb7R3VNsTo-72" target="CMeogjNzOUKb7R3VNsTo-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-83" value="1. 如果有复审：取人工审核完成的时间，audit_type=1 and audit_result=?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="215" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMeogjNzOUKb7R3VNsTo-84" value="2. 如果没有复审&lt;span style=&quot;font-size: 12px;&quot;&gt;，即人工初审就通过了&lt;/span&gt;：取人工审核完成的时间，audit_type=1 and audit_result=1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="260" width="540" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
